@@ -12,10 +12,12 @@ const IndexScreen = () => {
             <FlatList data={state}
                 keyExtractor={(blogPost) => blogPost.title}
                 renderItem={({ item }) => {
-                    return <View style={styles.row}>
-                        <Text style={styles.title}>{item.title}</Text>
-                        <Feather style={ styles.icon }name="trash" />
+                    return (
+                        <View style={styles.row}>
+                            <Text style={styles.title}>{item.title} - { item.id} </Text>
+                            <Feather style={styles.icon} name="trash" />
                         </View>
+                    );
                 }}
             />
         </View>
