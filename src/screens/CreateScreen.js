@@ -7,7 +7,6 @@ const CreateScreen = ({ navigation }) => {
     const [title, setTitle] = useState('');
     const [content, setContent] = useState('')
    
-
     return (
         <View>
             <Text style={styles.label}> Enter Title</Text>
