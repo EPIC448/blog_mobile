@@ -7,7 +7,7 @@ const blogReducer = (state, action) => {
             return state.filter((blogPost) => blogPost.id !== action.payload);
         case 'add_blogpost':
             return [...state, {
-                id: Math.floor(Math.random() * 999199),
+                id: Math.floor(Math.random() * 99999),
                 title: `Blog Post #${state.length + 1}`
             }
         ];

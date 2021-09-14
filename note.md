@@ -5,3 +5,6 @@
    -->
 
    Steps I was following. and Internet off line.
+
+    Issues with Current React code. 
+    https://github.com/facebook/react-native/issues/27029
