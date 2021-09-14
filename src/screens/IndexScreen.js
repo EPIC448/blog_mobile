@@ -36,7 +36,7 @@ IndexScreen.navigationOptions = ({ navigation }) => {
     return {
         headerRight: () => (
             <TouchableOpacity onPress={() => navigation.navigate('Create')}>
-                <Feather name="plus" size={30} />
+                <Feather name="plus" size={40} />
             </TouchableOpacity>
         ),
     };
