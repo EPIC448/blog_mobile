@@ -18,3 +18,5 @@
       </TouchableOpacity>
     ),
   };
+
+  Note: the EDit Icon is not showing on my page yet. 
