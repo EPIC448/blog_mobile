@@ -17,7 +17,7 @@ const ShowScreen = ({ navigation }) => {
     );
 };
 
-ShowScreen.navigationOptions = ({navigation}) => {
+ShowScreen.navigationOptions = ({ navigation }) => {
     return {
         headerRight: () => (
             <TouchableOpacity onPress={() => navigation.navigate('Edit', {id: navigation.getParam('id')})}>
@@ -29,6 +29,6 @@ ShowScreen.navigationOptions = ({navigation}) => {
 
 
  
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({});   
 
 export default ShowScreen;
