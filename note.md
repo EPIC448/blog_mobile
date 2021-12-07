@@ -57,4 +57,7 @@ If you are sure the module exists, try these steps:
  3. Reset Metro's cache: yarn start --reset-cache
  4. Remove the cache: rm -rf /tmp/metro-*
 > 1 | import axios from 'axios';
-    |                    ^
+
+"quick Wrap up Summary of how API was created.
+--> https://www.udemy.com/course/the-complete-react-native-and-redux-course/learn/lecture/15707656#notes"
+    |                    
