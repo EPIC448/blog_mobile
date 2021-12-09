@@ -62,6 +62,10 @@ If you are sure the module exists, try these steps:
 --> https://www.udemy.com/course/the-complete-react-native-and-redux-course/learn/lecture/15707656#notes"
     |                    
 
+-------------- Anded a JSON server --sepreate =-----
+
+ You need to start the Server in the JSON Directory outside the 'current code for it to work'
+  Very importatnt. 
 
     --------------- Anded Andriod ----
 
@@ -70,3 +74,5 @@ If you are sure the module exists, try these steps:
       Go to  'More Action' click on 'AvG manager'
       Then 'Lanuch' the simulator.
        Very important. 
+
+       Then Start the 'npm start' in the current VSC'
