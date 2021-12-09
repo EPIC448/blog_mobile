@@ -61,3 +61,12 @@ If you are sure the module exists, try these steps:
 "quick Wrap up Summary of how API was created.
 --> https://www.udemy.com/course/the-complete-react-native-and-redux-course/learn/lecture/15707656#notes"
     |                    
+
+
+    --------------- Anded Andriod ----
+
+     For it to work
+      Start the Andriod Studio 
+      Go to  'More Action' click on 'AvG manager'
+      Then 'Lanuch' the simulator.
+       Very important. 
