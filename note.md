@@ -67,7 +67,7 @@ If you are sure the module exists, try these steps:
  You need to start the Server in the JSON Directory outside the 'current code for it to work'
   Very importatnt. 
 
-    --------------- Anded Andriod ----
+    --------------- Anded Android ----
 
      For it to work
       Start the Andriod Studio 
